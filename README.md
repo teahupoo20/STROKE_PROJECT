@@ -18,12 +18,15 @@ Stroke dataset analytics : Data analysis and hypothesis testing with linear regr
 Dataset obtained from Kaggle.
 
 **Objective**
+
 To learn to test hypothesis with linear regression
 
 **Dataset content**
+
 Demographic and medical data including stroke event of 5110 patients.
 
 **Workflow**
+
 1. Dataset import
 2. Data cleaning, data manipulation and data visualization 
 3. Hypothesis statement
@@ -32,6 +35,7 @@ Demographic and medical data including stroke event of 5110 patients.
 
 
 **Conclusion**
+
 The features presented in the dataset are not relevant with a linear regression model. The continuous values presented in the dataset (average glucose level, age and BMI) cannot be used to predict the on event of a stroke. 
 
 <img width="415" alt="Capture d’écran 2021-04-15 à 19 46 23" src="https://user-images.githubusercontent.com/76606558/114915016-57dbd200-9e23-11eb-8939-1a6ed7acc5d3.png">
@@ -41,6 +45,11 @@ Interestingly we can see two different populations in the plot below. The cloud 
 
 <img width="416" alt="Capture d’écran 2021-04-15 à 18 44 57" src="https://user-images.githubusercontent.com/76606558/114907860-cd43a480-9e1b-11eb-9b05-3cc3c531680c.png">
 
+Thanks to Alan my fellow data analyst work mate who has tremendously helped me in the process. And thanks to our teacher and TA Eldiaas and Mathieu for their time and their energy to help us.
 
-**Presentation**
+**Contact me**
+
+https://www.linkedin.com/in/edwin-pitono/
+
+
 
