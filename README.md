@@ -2,7 +2,7 @@
 Data Analysis Full-Time FEB2021, Paris & February 29th 2021
 Training project of data analysis and hypothesis testing
 
-Content
+**Content**
 Project Description
 Objective
 Dataset content
@@ -11,17 +11,17 @@ Presentation
 
 ![Stroke_Web](https://user-images.githubusercontent.com/76606558/114902277-f3fedc80-9e15-11eb-89b5-bb2c342d281a.png)
 
-Project Description 
+**Project Description** 
 Stroke dataset analytics : Data analysis and hypothesis testing with linear regression.
 Dataset obtained from Kaggle.
 
-Objective
+**Objective**
 To learn to test hypothesis with linear regression
 
-Dataset content
+**Dataset content**
 Demographic and medical data including stroke event of 5110 patients.
 
-Workflow
+**Workflow**
 1. Dataset import
 2. Data cleaning, data manipulation and data visualization 
 3. Hypothesis statement
@@ -29,7 +29,7 @@ Workflow
 
 
 
-Conclusion
+**Conclusion**
 The features presented in the dataset are not relevant with a linear regression model. The continuous values presented in the dataset (average glucose level, age and BMI) cannot be used to predict the on event of a stroke. 
 
 <img width="415" alt="Capture d’écran 2021-04-15 à 19 46 23" src="https://user-images.githubusercontent.com/76606558/114915016-57dbd200-9e23-11eb-8939-1a6ed7acc5d3.png">
@@ -40,5 +40,5 @@ Interestingly we can see two different populations in the plot below. The cloud 
 <img width="416" alt="Capture d’écran 2021-04-15 à 18 44 57" src="https://user-images.githubusercontent.com/76606558/114907860-cd43a480-9e1b-11eb-9b05-3cc3c531680c.png">
 
 
-Presentation
+**Presentation**
 
