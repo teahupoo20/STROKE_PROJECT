@@ -13,6 +13,7 @@ Presentation
 ![Stroke_Web](https://user-images.githubusercontent.com/76606558/114902277-f3fedc80-9e15-11eb-89b5-bb2c342d281a.png)
 
 **Project Description** 
+
 Stroke dataset analytics : Data analysis and hypothesis testing with linear regression.
 Dataset obtained from Kaggle.
 
