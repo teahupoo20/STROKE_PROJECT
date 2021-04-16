@@ -1,5 +1,7 @@
 # STROKE PROJECT by Edwin Pitono and Alan Perfettini
-Data Analysis Full-Time FEB2021, Paris & February 29th 2021
+Data Analysis Full-Time FEB2021, Paris
+
+March 26th 2021
 Training project of data analysis and hypothesis testing
 
 **Content**
